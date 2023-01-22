@@ -6,6 +6,7 @@ import numpy as np
 from PyQt6 import uic
 from PyQt6.QtWidgets import QApplication
 
+
     
 def main():
     #game = Game(3,3,2)
